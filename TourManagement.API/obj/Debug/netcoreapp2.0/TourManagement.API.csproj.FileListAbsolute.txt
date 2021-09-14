@@ -1,0 +1,15 @@
+C:\Users\jibar\Documents\Training\Angular Building Business Applications with Angular and ASP.NET\TourManagement.API\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\jibar\Documents\Training\Angular Building Business Applications with Angular and ASP.NET\TourManagement.API\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\jibar\Documents\Training\Angular Building Business Applications with Angular and ASP.NET\TourManagement.API\bin\Debug\netcoreapp2.0\TourManagement.API.deps.json
+C:\Users\jibar\Documents\Training\Angular Building Business Applications with Angular and ASP.NET\TourManagement.API\bin\Debug\netcoreapp2.0\TourManagement.API.runtimeconfig.json
+C:\Users\jibar\Documents\Training\Angular Building Business Applications with Angular and ASP.NET\TourManagement.API\bin\Debug\netcoreapp2.0\TourManagement.API.runtimeconfig.dev.json
+C:\Users\jibar\Documents\Training\Angular Building Business Applications with Angular and ASP.NET\TourManagement.API\bin\Debug\netcoreapp2.0\TourManagement.API.dll
+C:\Users\jibar\Documents\Training\Angular Building Business Applications with Angular and ASP.NET\TourManagement.API\bin\Debug\netcoreapp2.0\TourManagement.API.pdb
+C:\Users\jibar\Documents\Training\Angular Building Business Applications with Angular and ASP.NET\TourManagement.API\obj\Debug\netcoreapp2.0\TourManagement.API.csproj.AssemblyReference.cache
+C:\Users\jibar\Documents\Training\Angular Building Business Applications with Angular and ASP.NET\TourManagement.API\obj\Debug\netcoreapp2.0\TourManagement.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jibar\Documents\Training\Angular Building Business Applications with Angular and ASP.NET\TourManagement.API\obj\Debug\netcoreapp2.0\TourManagement.API.AssemblyInfoInputs.cache
+C:\Users\jibar\Documents\Training\Angular Building Business Applications with Angular and ASP.NET\TourManagement.API\obj\Debug\netcoreapp2.0\TourManagement.API.AssemblyInfo.cs
+C:\Users\jibar\Documents\Training\Angular Building Business Applications with Angular and ASP.NET\TourManagement.API\obj\Debug\netcoreapp2.0\TourManagement.API.csproj.CoreCompileInputs.cache
+C:\Users\jibar\Documents\Training\Angular Building Business Applications with Angular and ASP.NET\TourManagement.API\obj\Debug\netcoreapp2.0\TourManagement.API.dll
+C:\Users\jibar\Documents\Training\Angular Building Business Applications with Angular and ASP.NET\TourManagement.API\obj\Debug\netcoreapp2.0\TourManagement.API.pdb
+C:\Users\jibar\Documents\Training\Angular Building Business Applications with Angular and ASP.NET\TourManagement.API\obj\Debug\netcoreapp2.0\TourManagement.API.genruntimeconfig.cache
